@@ -1,4 +1,4 @@
-my_project
+weather_app
 Prerequisites
 Python 3.6+ (x64).
 Django 3.0.+.
